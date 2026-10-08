@@ -1,0 +1,10 @@
+{
+  "name": "Soilerr Organics – Batch Tracker",
+  "short_name": "Soilerr Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ec",
+  "theme_color": "#1f5a38",
+  "description": "Offline-first batch, drum, material and quality tracker for Soilerr Organics.",
+  "icons": []
+}
