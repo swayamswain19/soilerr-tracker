@@ -1,5 +1,5 @@
 var SB={
   url:'https://vxvwkeapbwgenrilwdus.supabase.co',
-  key:'eyJ... your long key ...',
+  key:'sb_publishable_uDnOjlqmHl0PYrYbpXkyHA_GvdoaeZD',
   admin:'organicssoilerr@gmail.com'
 };
